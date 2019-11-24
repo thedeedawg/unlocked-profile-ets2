@@ -1,2 +1,15 @@
-# unlocked-profile-ets2
-Mod for ETS2 that will unlock/discover all cities, truck dealers, and recruitment agencies from the start
+# Unlocked Profile (Euro Truck Simulator 2)
+
+*Unlocked Profile* will unlock/discover all cities, truck dealers, and recruitment agencies from the start, so you don't have to. This repo contains the source files for both the *Base Game* and *DLC* edition of this mod.
+
+## Installation
+
+I recommend subscribing to the mod on the Steam workshop, as it will take care of everything for you and you'll automatically receive any future updates. You can find the respective editions at:
+
+* [base-game-edition-workshop][Base Game edition]
+* [dlc-edition-workshop][DLC edition]
+
+**NOTE:** You'll only need to install either the *Base Game* or *DLC* edition, not both. The *DLC* edition includes the *Base Game* edition.
+
+[base-game-edition-workshop]: https://steamcommunity.com/sharedfiles/filedetails/?id=1830922166
+[dlc-edition-workshop]: https://steamcommunity.com/sharedfiles/filedetails/?id=1830931720
