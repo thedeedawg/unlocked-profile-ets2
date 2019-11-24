@@ -6,8 +6,8 @@
 
 I recommend subscribing to the mod on the Steam workshop, as it will take care of everything for you and you'll automatically receive any future updates. You can find the respective editions at:
 
-* [base-game-edition-workshop][Base Game edition]
-* [dlc-edition-workshop][DLC edition]
+* [Base Game edition][base-game-edition-workshop]
+* [DLC edition][dlc-edition-workshop]
 
 **NOTE:** You'll only need to install either the *Base Game* or *DLC* edition, not both. The *DLC* edition includes the *Base Game* edition.
 
