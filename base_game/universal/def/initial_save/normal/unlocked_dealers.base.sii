@@ -1,0 +1,70 @@
+# Austria
+unlocked_dealers[]: graz
+unlocked_dealers[]: salzburg
+unlocked_dealers[]: wien
+
+# Belgium
+unlocked_dealers[]: brussel
+
+# Czech Republic
+unlocked_dealers[]: prague
+
+# France
+unlocked_dealers[]: calais
+unlocked_dealers[]: lille
+unlocked_dealers[]: lyon
+unlocked_dealers[]: paris
+unlocked_dealers[]: strasbourg
+
+# Germany
+unlocked_dealers[]: berlin
+unlocked_dealers[]: bremen
+unlocked_dealers[]: dortmund
+unlocked_dealers[]: dresden
+unlocked_dealers[]: dusseldorf
+unlocked_dealers[]: frankfurt
+unlocked_dealers[]: hamburg
+unlocked_dealers[]: hannover
+unlocked_dealers[]: leipzig
+unlocked_dealers[]: munchen
+unlocked_dealers[]: nurnberg
+unlocked_dealers[]: osnabruck
+unlocked_dealers[]: rostock
+unlocked_dealers[]: stuttgart
+
+# Italy
+unlocked_dealers[]: milano
+unlocked_dealers[]: torino
+unlocked_dealers[]: verona
+
+# Luxembourg
+unlocked_dealers[]: luxembourg
+
+# Netherlands
+unlocked_dealers[]: amsterdam
+unlocked_dealers[]: rotterdam
+
+# Poland
+unlocked_dealers[]: szczecin
+unlocked_dealers[]: wroclaw
+
+# Slovakia
+unlocked_dealers[]: bratislava
+
+# Switzerland
+unlocked_dealers[]: bern
+unlocked_dealers[]: geneve
+unlocked_dealers[]: zurich
+
+# United Kingdom
+unlocked_dealers[]: aberdeen
+unlocked_dealers[]: birmingham
+unlocked_dealers[]: cardiff
+unlocked_dealers[]: edinburgh
+unlocked_dealers[]: felixstowe
+unlocked_dealers[]: glasgow
+unlocked_dealers[]: grimsby
+unlocked_dealers[]: london
+unlocked_dealers[]: manchester
+unlocked_dealers[]: newcastle
+unlocked_dealers[]: plymouth

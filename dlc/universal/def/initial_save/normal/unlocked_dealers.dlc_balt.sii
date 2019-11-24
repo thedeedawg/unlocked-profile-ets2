@@ -1,0 +1,20 @@
+# Estonia
+unlocked_dealers[]: tallinn
+unlocked_dealers[]: tartu
+
+# Finland
+unlocked_dealers[]: helsinki
+unlocked_dealers[]: lahti
+unlocked_dealers[]: turku
+
+# Latvia
+unlocked_dealers[]: riga
+
+# Lithuania
+unlocked_dealers[]: kaunas
+unlocked_dealers[]: klaipeda
+unlocked_dealers[]: vilnius
+
+# Russia
+unlocked_dealers[]: kaliningrad
+unlocked_dealers[]: petersburg

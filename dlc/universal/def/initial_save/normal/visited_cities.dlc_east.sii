@@ -1,0 +1,41 @@
+# Czech Republic
+visited_cities[73]: ostrava
+
+visited_cities_count[73]: 1
+
+# Hungary
+visited_cities[74]: budapest
+visited_cities[75]: debrecen
+visited_cities[76]: pecs
+visited_cities[77]: szeged
+
+visited_cities_count[74]: 1
+visited_cities_count[75]: 1
+visited_cities_count[76]: 1
+visited_cities_count[77]: 1
+
+# Poland
+visited_cities[78]: bialystok
+visited_cities[79]: gdansk
+visited_cities[80]: katowice
+visited_cities[81]: krakow
+visited_cities[82]: lublin
+visited_cities[83]: lodz
+visited_cities[84]: olsztyn
+visited_cities[85]: warszawa
+
+visited_cities_count[78]: 1
+visited_cities_count[79]: 1
+visited_cities_count[80]: 1
+visited_cities_count[81]: 1
+visited_cities_count[82]: 1
+visited_cities_count[83]: 1
+visited_cities_count[84]: 1
+visited_cities_count[85]: 1
+
+# Slovakia
+visited_cities[86]: bystrica
+visited_cities[87]: kosice
+
+visited_cities_count[86]: 1
+visited_cities_count[87]: 1

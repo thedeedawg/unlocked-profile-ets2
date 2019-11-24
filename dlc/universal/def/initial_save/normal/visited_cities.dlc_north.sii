@@ -1,0 +1,62 @@
+# Denmark
+visited_cities[88]: aalborg
+visited_cities[89]: esbjerg
+visited_cities[90]: frederikshv
+visited_cities[91]: gedser
+visited_cities[92]: hirtshals
+visited_cities[93]: kobenhavn
+visited_cities[94]: odense
+
+visited_cities_count[88]: 1
+visited_cities_count[89]: 1
+visited_cities_count[90]: 1
+visited_cities_count[91]: 1
+visited_cities_count[92]: 1
+visited_cities_count[93]: 1
+visited_cities_count[94]: 1
+
+# Norway
+visited_cities[95]: bergen
+visited_cities[96]: kristiansand
+visited_cities[97]: oslo
+visited_cities[98]: stavanger
+
+visited_cities_count[95]: 1
+visited_cities_count[96]: 1
+visited_cities_count[97]: 1
+visited_cities_count[98]: 1
+
+# Sweden
+visited_cities[99]: goteborg
+visited_cities[100]: helsingborg
+visited_cities[101]: jonkoping
+visited_cities[102]: kalmar
+visited_cities[103]: kapellskar
+visited_cities[104]: karlskrona
+visited_cities[105]: linkoping
+visited_cities[106]: malmo
+visited_cities[107]: nynashamn
+visited_cities[108]: orebro
+visited_cities[109]: stockholm
+visited_cities[110]: sodertalje
+visited_cities[111]: trelleborg
+visited_cities[112]: uppsala
+visited_cities[113]: vasteraas
+visited_cities[114]: vaxjo
+
+visited_cities_count[99]: 1
+visited_cities_count[100]: 1
+visited_cities_count[101]: 1
+visited_cities_count[102]: 1
+visited_cities_count[103]: 1
+visited_cities_count[104]: 1
+visited_cities_count[105]: 1
+visited_cities_count[106]: 1
+visited_cities_count[107]: 1
+visited_cities_count[108]: 1
+visited_cities_count[109]: 1
+visited_cities_count[110]: 1
+visited_cities_count[111]: 1
+visited_cities_count[112]: 1
+visited_cities_count[113]: 1
+visited_cities_count[114]: 1

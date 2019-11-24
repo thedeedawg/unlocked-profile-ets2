@@ -1,0 +1,181 @@
+# Austria
+visited_cities[0]: graz
+visited_cities[1]: innsbruck
+visited_cities[2]: klagenfurt
+visited_cities[3]: linz
+visited_cities[4]: salzburg
+visited_cities[5]: wien
+
+visited_cities_count[0]: 1
+visited_cities_count[1]: 1
+visited_cities_count[2]: 1
+visited_cities_count[3]: 1
+visited_cities_count[4]: 1
+visited_cities_count[5]: 1
+
+# Belgium
+visited_cities[6]: brussel
+visited_cities[7]: liege
+
+visited_cities_count[6]: 1
+visited_cities_count[7]: 1
+
+# Czech Republic
+visited_cities[8]: brno
+visited_cities[9]: prague
+
+visited_cities_count[8]: 1
+visited_cities_count[9]: 1
+
+# France
+visited_cities[10]: calais
+visited_cities[11]: dijon
+visited_cities[12]: lille
+visited_cities[13]: lyon
+visited_cities[14]: metz
+visited_cities[15]: paris
+visited_cities[16]: reims
+visited_cities[17]: strasbourg
+
+visited_cities_count[10]: 1
+visited_cities_count[11]: 1
+visited_cities_count[12]: 1
+visited_cities_count[13]: 1
+visited_cities_count[14]: 1
+visited_cities_count[15]: 1
+visited_cities_count[16]: 1
+visited_cities_count[17]: 1
+
+# Germany
+visited_cities[18]: berlin
+visited_cities[19]: bremen
+visited_cities[20]: dortmund
+visited_cities[21]: dresden
+visited_cities[22]: duisburg
+visited_cities[23]: dusseldorf
+visited_cities[24]: erfurt
+visited_cities[25]: frankfurt
+visited_cities[26]: hamburg
+visited_cities[27]: hannover
+visited_cities[28]: kassel
+visited_cities[29]: kiel
+visited_cities[30]: koln
+visited_cities[31]: leipzig
+visited_cities[32]: magdeburg
+visited_cities[33]: mannheim
+visited_cities[34]: munchen
+visited_cities[35]: nurnberg
+visited_cities[36]: osnabruck
+visited_cities[37]: rostock
+visited_cities[38]: stuttgart
+visited_cities[39]: travemunde
+
+visited_cities_count[18]: 1
+visited_cities_count[19]: 1
+visited_cities_count[20]: 1
+visited_cities_count[21]: 1
+visited_cities_count[22]: 1
+visited_cities_count[23]: 1
+visited_cities_count[24]: 1
+visited_cities_count[25]: 1
+visited_cities_count[26]: 1
+visited_cities_count[27]: 1
+visited_cities_count[28]: 1
+visited_cities_count[29]: 1
+visited_cities_count[30]: 1
+visited_cities_count[31]: 1
+visited_cities_count[32]: 1
+visited_cities_count[33]: 1
+visited_cities_count[34]: 1
+visited_cities_count[35]: 1
+visited_cities_count[36]: 1
+visited_cities_count[37]: 1
+visited_cities_count[38]: 1
+visited_cities_count[39]: 1
+
+# Italy
+visited_cities[40]: milano
+visited_cities[41]: torino
+visited_cities[42]: venezia
+visited_cities[43]: verona
+
+visited_cities_count[40]: 1
+visited_cities_count[41]: 1
+visited_cities_count[42]: 1
+visited_cities_count[43]: 1
+
+# Luxembourg
+visited_cities[44]: luxembourg
+
+visited_cities_count[44]: 1
+
+# Netherlands
+visited_cities[45]: amsterdam
+visited_cities[46]: groningen
+visited_cities[47]: rotterdam
+
+visited_cities_count[45]: 1
+visited_cities_count[46]: 1
+visited_cities_count[47]: 1
+
+# Poland
+visited_cities[48]: poznan
+visited_cities[49]: szczecin
+visited_cities[50]: wroclaw
+
+visited_cities_count[48]: 1
+visited_cities_count[49]: 1
+visited_cities_count[50]: 1
+
+# Slovakia
+visited_cities[51]: bratislava
+
+visited_cities_count[51]: 1
+
+# Switzerland
+visited_cities[52]: bern
+visited_cities[53]: geneve
+visited_cities[54]: zurich
+
+visited_cities_count[52]: 1
+visited_cities_count[53]: 1
+visited_cities_count[54]: 1
+
+# United Kingdom
+visited_cities[55]: aberdeen
+visited_cities[56]: birmingham
+visited_cities[57]: cambridge
+visited_cities[58]: cardiff
+visited_cities[59]: carlisle
+visited_cities[60]: dover
+visited_cities[61]: edinburgh
+visited_cities[62]: felixstowe
+visited_cities[63]: glasgow
+visited_cities[64]: grimsby
+visited_cities[65]: liverpool
+visited_cities[66]: london
+visited_cities[67]: manchester
+visited_cities[68]: newcastle
+visited_cities[69]: plymouth
+visited_cities[70]: sheffield
+visited_cities[71]: southampton
+visited_cities[72]: swansea
+
+visited_cities_count[55]: 1
+visited_cities_count[56]: 1
+visited_cities_count[57]: 1
+visited_cities_count[58]: 1
+visited_cities_count[59]: 1
+visited_cities_count[60]: 1
+visited_cities_count[61]: 1
+visited_cities_count[62]: 1
+visited_cities_count[63]: 1
+visited_cities_count[64]: 1
+visited_cities_count[65]: 1
+visited_cities_count[66]: 1
+visited_cities_count[67]: 1
+visited_cities_count[68]: 1
+visited_cities_count[69]: 1
+visited_cities_count[70]: 1
+visited_cities_count[71]: 1
+visited_cities_count[72]: 1
