@@ -23,18 +23,21 @@ economy : .economy
 @include "visited_cities.dlc_fr.sii"
 @include "visited_cities.dlc_it.sii"
 @include "visited_cities.dlc_balt.sii"
+@include "visited_cities.dlc_balkan_e.sii"
 @include "unlocked_dealers.base.sii"
 @include "unlocked_dealers.dlc_east.sii"
 @include "unlocked_dealers.dlc_north.sii"
 @include "unlocked_dealers.dlc_fr.sii"
 @include "unlocked_dealers.dlc_it.sii"
 @include "unlocked_dealers.dlc_balt.sii"
+@include "unlocked_dealers.dlc_balkan_e.sii"
 @include "unlocked_recruitments.base.sii"
 @include "unlocked_recruitments.dlc_east.sii"
 @include "unlocked_recruitments.dlc_north.sii"
 @include "unlocked_recruitments.dlc_fr.sii"
 @include "unlocked_recruitments.dlc_it.sii"
 @include "unlocked_recruitments.dlc_balt.sii"
+@include "unlocked_recruitments.dlc_balkan_e.sii"
 }
 bank : .bank
 {
