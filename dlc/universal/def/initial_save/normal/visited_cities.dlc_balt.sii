@@ -1,29 +1,10 @@
 # Estonia
-visited_cities[157]: kunda
-visited_cities[158]: narva
-visited_cities[159]: paldiski
-visited_cities[160]: parnu
-visited_cities[161]: tallinn
-visited_cities[162]: tartu
-
-visited_cities_count[157]: 1
-visited_cities_count[158]: 1
-visited_cities_count[159]: 1
-visited_cities_count[160]: 1
-visited_cities_count[161]: 1
-visited_cities_count[162]: 1
-
-# Finland
-visited_cities[163]: helsinki
-visited_cities[164]: kotka
-visited_cities[165]: kouvola
-visited_cities[166]: lahti
-visited_cities[167]: loviisa
-visited_cities[168]: naantali
-visited_cities[169]: olkiluoto
-visited_cities[170]: pori
-visited_cities[171]: tampere
-visited_cities[172]: turku
+visited_cities[163]: kunda
+visited_cities[164]: narva
+visited_cities[165]: paldiski
+visited_cities[166]: parnu
+visited_cities[167]: tallinn
+visited_cities[168]: tartu
 
 visited_cities_count[163]: 1
 visited_cities_count[164]: 1
@@ -31,19 +12,23 @@ visited_cities_count[165]: 1
 visited_cities_count[166]: 1
 visited_cities_count[167]: 1
 visited_cities_count[168]: 1
+
+# Finland
+visited_cities[169]: helsinki
+visited_cities[170]: kotka
+visited_cities[171]: kouvola
+visited_cities[172]: lahti
+visited_cities[173]: loviisa
+visited_cities[174]: naantali
+visited_cities[175]: olkiluoto
+visited_cities[176]: pori
+visited_cities[177]: tampere
+visited_cities[178]: turku
+
 visited_cities_count[169]: 1
 visited_cities_count[170]: 1
 visited_cities_count[171]: 1
 visited_cities_count[172]: 1
-
-# Latvia
-visited_cities[173]: daugavpils
-visited_cities[174]: liepaja
-visited_cities[175]: rezekne
-visited_cities[176]: riga
-visited_cities[177]: valmiera
-visited_cities[178]: ventspils
-
 visited_cities_count[173]: 1
 visited_cities_count[174]: 1
 visited_cities_count[175]: 1
@@ -51,14 +36,13 @@ visited_cities_count[176]: 1
 visited_cities_count[177]: 1
 visited_cities_count[178]: 1
 
-# Lithuania
-visited_cities[179]: kaunas
-visited_cities[180]: klaipeda
-visited_cities[181]: mazeikiai
-visited_cities[182]: panevezys
-visited_cities[183]: siauliai
-visited_cities[184]: utena
-visited_cities[185]: vilnius
+# Latvia
+visited_cities[179]: daugavpils
+visited_cities[180]: liepaja
+visited_cities[181]: rezekne
+visited_cities[182]: riga
+visited_cities[183]: valmiera
+visited_cities[184]: ventspils
 
 visited_cities_count[179]: 1
 visited_cities_count[180]: 1
@@ -66,19 +50,35 @@ visited_cities_count[181]: 1
 visited_cities_count[182]: 1
 visited_cities_count[183]: 1
 visited_cities_count[184]: 1
+
+# Lithuania
+visited_cities[185]: kaunas
+visited_cities[186]: klaipeda
+visited_cities[187]: mazeikiai
+visited_cities[188]: panevezys
+visited_cities[189]: siauliai
+visited_cities[190]: utena
+visited_cities[191]: vilnius
+
 visited_cities_count[185]: 1
-
-# Russia
-visited_cities[186]: kaliningrad
-visited_cities[187]: luga
-visited_cities[188]: petersburg
-visited_cities[189]: pskov
-visited_cities[190]: sosnovy_bor
-visited_cities[191]: vyborg
-
 visited_cities_count[186]: 1
 visited_cities_count[187]: 1
 visited_cities_count[188]: 1
 visited_cities_count[189]: 1
 visited_cities_count[190]: 1
 visited_cities_count[191]: 1
+
+# Russia
+visited_cities[192]: kaliningrad
+visited_cities[193]: luga
+visited_cities[194]: petersburg
+visited_cities[195]: pskov
+visited_cities[196]: sosnovy_bor
+visited_cities[197]: vyborg
+
+visited_cities_count[192]: 1
+visited_cities_count[193]: 1
+visited_cities_count[194]: 1
+visited_cities_count[195]: 1
+visited_cities_count[196]: 1
+visited_cities_count[197]: 1
