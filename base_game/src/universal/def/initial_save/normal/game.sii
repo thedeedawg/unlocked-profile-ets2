@@ -17,9 +17,9 @@ economy : .economy
 	#Starting time in minutes.
 	game_time: 600
 
-@include "visited_cities.base.sii"
-@include "unlocked_dealers.base.sii"
-@include "unlocked_recruitments.base.sii"
+@include "visited_cities.base.sui"
+@include "unlocked_dealers.base.sui"
+@include "unlocked_recruitments.base.sui"
 }
 bank : .bank
 {
