@@ -1,0 +1,30 @@
+map_action : .dlc.iberia.cutscenes
+{
+	# Portugal
+	id_params[0]: 4233202316612075521 # a22
+	id_params[1]: 4297270052703895552 # lisboa
+	id_params[2]: 4325880684701220865 # olhao
+	id_params[3]: 4326872823996743681 # porto
+	id_params[4]: 4325883745565868033 # sines
+
+	# Spain
+	id_params[5]: 4302904945408409600 # a-66
+	id_params[6]: 4325886063837380609 # barcelona
+	id_params[7]: 4323983495641104384 # el_ejido
+	id_params[8]: 4325874895647342593 # granada
+	id_params[9]: 4325872420823433217 # o_barco
+	id_params[10]: 4316248567285481472 # puertollano
+	id_params[11]: 4228974900642512897 # santander
+	id_params[12]: 4322712974819524608 # sevilla
+	id_params[13]: 4325890201597968385 # valencia
+	id_params[14]: 4325884690127323137 # zaragoza
+
+	name: ""
+	command: achievement
+	num_params: 0
+	str_params: 1
+	str_params[0]: ib_cutscenes
+	target_tags: 0
+	target_range: 0
+	type: default
+}

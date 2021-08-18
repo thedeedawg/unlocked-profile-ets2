@@ -1,18 +1,16 @@
 # Bulgaria
-visited_cities[198]: burgas
-visited_cities[199]: karlovo
-visited_cities[200]: kozloduy
-visited_cities[201]: pernik
-visited_cities[202]: pirdop
-visited_cities[203]: pleven
-visited_cities[204]: plovdiv
-visited_cities[205]: ruse
-visited_cities[206]: sofia
-visited_cities[207]: varna
-visited_cities[208]: veli_tarnovo
+visited_cities[200]: burgas
+visited_cities[201]: karlovo
+visited_cities[202]: kozloduy
+visited_cities[203]: pernik
+visited_cities[204]: pirdop
+visited_cities[205]: pleven
+visited_cities[206]: plovdiv
+visited_cities[207]: ruse
+visited_cities[208]: sofia
+visited_cities[209]: varna
+visited_cities[210]: veli_tarnovo
 
-visited_cities_count[198]: 1
-visited_cities_count[199]: 1
 visited_cities_count[200]: 1
 visited_cities_count[201]: 1
 visited_cities_count[202]: 1
@@ -22,27 +20,27 @@ visited_cities_count[205]: 1
 visited_cities_count[206]: 1
 visited_cities_count[207]: 1
 visited_cities_count[208]: 1
-
-# Romania
-visited_cities[209]: bacau
-visited_cities[210]: brasov
-visited_cities[211]: bucuresti
-visited_cities[212]: calarasi
-visited_cities[213]: cernavoda
-visited_cities[214]: cluj_napoca
-visited_cities[215]: constanta
-visited_cities[216]: craiova
-visited_cities[217]: galati
-visited_cities[218]: hunedoara
-visited_cities[219]: iasi
-visited_cities[220]: mangalia
-visited_cities[221]: pitesti
-visited_cities[222]: resita
-visited_cities[223]: targu_mures
-visited_cities[224]: timisoara
-
 visited_cities_count[209]: 1
 visited_cities_count[210]: 1
+
+# Romania
+visited_cities[211]: bacau
+visited_cities[212]: brasov
+visited_cities[213]: bucuresti
+visited_cities[214]: calarasi
+visited_cities[215]: cernavoda
+visited_cities[216]: cluj_napoca
+visited_cities[217]: constanta
+visited_cities[218]: craiova
+visited_cities[219]: galati
+visited_cities[220]: hunedoara
+visited_cities[221]: iasi
+visited_cities[222]: mangalia
+visited_cities[223]: pitesti
+visited_cities[224]: resita
+visited_cities[225]: targu_mures
+visited_cities[226]: timisoara
+
 visited_cities_count[211]: 1
 visited_cities_count[212]: 1
 visited_cities_count[213]: 1
@@ -57,12 +55,14 @@ visited_cities_count[221]: 1
 visited_cities_count[222]: 1
 visited_cities_count[223]: 1
 visited_cities_count[224]: 1
-
-# Turkey
-visited_cities[225]: edirne
-visited_cities[226]: istanbul
-visited_cities[227]: tekirdag
-
 visited_cities_count[225]: 1
 visited_cities_count[226]: 1
+
+# Turkey
+visited_cities[227]: edirne
+visited_cities[228]: istanbul
+visited_cities[229]: tekirdag
+
 visited_cities_count[227]: 1
+visited_cities_count[228]: 1
+visited_cities_count[229]: 1
