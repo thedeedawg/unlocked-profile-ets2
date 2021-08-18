@@ -1,0 +1,35 @@
+# Portugal
+discovered_cutscene_items[0]: 4233202316612075521 # a22
+discovered_cutscene_items[1]: 4297270052703895552 # lisboa
+discovered_cutscene_items[2]: 4325880684701220865 # olhao
+discovered_cutscene_items[3]: 4326872823996743681 # porto
+discovered_cutscene_items[4]: 4325883745565868033 # sines
+
+discovered_cutscene_items_states[0]: 2
+discovered_cutscene_items_states[1]: 2
+discovered_cutscene_items_states[2]: 2
+discovered_cutscene_items_states[3]: 2
+discovered_cutscene_items_states[4]: 2
+
+# Spain
+discovered_cutscene_items[5]: 4302904945408409600 # a-66
+discovered_cutscene_items[6]: 4325886063837380609 # barcelona
+discovered_cutscene_items[7]: 4323983495641104384 # el_ejido
+discovered_cutscene_items[8]: 4325874895647342593 # granada
+discovered_cutscene_items[9]: 4325872420823433217 # o_barco
+discovered_cutscene_items[10]: 4316248567285481472 # puertollano
+discovered_cutscene_items[11]: 4228974900642512897 # santander
+discovered_cutscene_items[12]: 4322712974819524608 # sevilla
+discovered_cutscene_items[13]: 4325890201597968385 # valencia
+discovered_cutscene_items[14]: 4325884690127323137 # zaragoza
+
+discovered_cutscene_items_states[5]: 2
+discovered_cutscene_items_states[6]: 2
+discovered_cutscene_items_states[7]: 2
+discovered_cutscene_items_states[8]: 2
+discovered_cutscene_items_states[9]: 2
+discovered_cutscene_items_states[10]: 2
+discovered_cutscene_items_states[11]: 2
+discovered_cutscene_items_states[12]: 2
+discovered_cutscene_items_states[13]: 2
+discovered_cutscene_items_states[14]: 2
