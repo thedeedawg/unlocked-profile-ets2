@@ -20,6 +20,7 @@ economy : .economy
 @include "visited_cities.base.sui"
 @include "unlocked_dealers.base.sui"
 @include "unlocked_recruitments.base.sui"
+@include "discovered_cutscene_items.base.sui"
 }
 bank : .bank
 {

@@ -41,6 +41,11 @@ economy : .economy
 @include "unlocked_recruitments.dlc_balt.sui"
 @include "unlocked_recruitments.dlc_balkan_e.sui"
 @include "unlocked_recruitments.dlc_iberia.sui"
+@include "discovered_cutscene_items.base.sui"
+@include "discovered_cutscene_items.dlc_fr.sui"
+@include "discovered_cutscene_items.dlc_it.sui"
+@include "discovered_cutscene_items.dlc_balt.sui"
+@include "discovered_cutscene_items.dlc_balkan_e.sui"
 @include "discovered_cutscene_items.dlc_iberia.sui"
 @include "stored_map_actions.sui"
 }
