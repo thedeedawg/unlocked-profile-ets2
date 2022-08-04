@@ -22,6 +22,7 @@ economy : .economy
 @include "visited_cities.dlc_north.sui"
 @include "visited_cities.dlc_fr.sui"
 @include "visited_cities.dlc_it.sui"
+@include "visited_cities.dlc_krone.sui"
 @include "visited_cities.dlc_balt.sui"
 @include "visited_cities.dlc_balkan_e.sui"
 @include "visited_cities.dlc_iberia.sui"
